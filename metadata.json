@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Tweezer Array Explorer",
+  "description": "An interactive exploration of the 6,100 atomic qubit array breakthrough published in Nature (2025), featuring interactive array simulations, coherence data visualization, and an AI research assistant.",
+  "requestFramePermissions": []
+}
